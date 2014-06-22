@@ -1,6 +1,8 @@
 ==============================
-Prepare tidy data for analysis - Version 1.0
+Prepare tidy data for analysis 
 ==============================
+
+Version 1.0
 
 Assumptions:
 ------------
