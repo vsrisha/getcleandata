@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ==============================
 
 Prepare tidy data for analysis
