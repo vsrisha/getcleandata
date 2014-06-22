@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==============================
 
 Prepare tidy data for analysis
@@ -40,3 +41,6 @@ License:
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 
 VS, June 2014
+=======
+------------
+>>>>>>> 6b691983b1871dfefbdcb2339ea25376ee4fe4cb
