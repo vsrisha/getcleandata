@@ -11,8 +11,8 @@ The working directory was set to the required destination location. The entire .
 
 After unzipping, the data for training and test sets was read into R using read.table(). The disparate data sources such as X, y and subject files were combined into one data frame. Then the training and test data sets were merged to create one data set.
 
-R script details:
------------------
+R script run_analysis.R details:
+--------------------------------
 An R script called run_analysis.R was created that does the following:
 
 1. Merges the training and the test sets to create one data set - this was done using rbind()
