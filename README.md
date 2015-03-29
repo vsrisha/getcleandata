@@ -3,6 +3,7 @@ Prepare tidy data for analysis
 ==============================
 
 Version 1.0
+Version 1.1
 
 Assumptions:
 ------------
